@@ -1,1 +1,1 @@
-# Cotton-Disease-Classification
+# Cotton-Disease-Classification Using CNN
